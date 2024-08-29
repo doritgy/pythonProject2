@@ -2,7 +2,7 @@ from datetime import datetime
 
 bank_accounts = {
 1001: {
-"first_name": "Alice!",
+"first_name": "Alice",
 "last_name": "Smith",
 "id_number": "123456789",
 "balance": -2500.50,
